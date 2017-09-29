@@ -1,0 +1,5 @@
+# Simplest non-leaf tree
+( node 0
+  < sink1 0 4 20 >
+  < sink2 0 5 10 >
+)

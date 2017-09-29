@@ -1,0 +1,11 @@
+# Input file "rc12" of Rajeev Kumar Nain
+( node0 0.0
+  ( node1 5.0
+    < sink2 10.0 24.0 10.0 >
+    ( node3 7.0
+      < sink4 12.0 34.0 7.0 >
+      < sink5 8.0 19.0 13.0 >
+    )
+  )
+  < sink6 3.0 34.0 4.0 >
+)

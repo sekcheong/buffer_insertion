@@ -1,0 +1,14 @@
+Due date: Thursday 10/10 11:59PM
+
+Please only fill in the function "options_filter"; it is commented as "filled by you" in the buffer.c file.
+
+Note the requested output is only the required arrival time and capacitance load values at the root so it is not necessary to print the buffer locations.
+
+Submit via "dropbox" tab in LearnUW.
+
+Please only submit your "buffer.c" file. Do not submit your executables.
+
+Your code should be compiled and run in CAE tux machines (best-tux.cae.wisc.edu) using the provided makefile.
+
+This homework should be done individually.
+

@@ -1,0 +1,11 @@
+# Example input file "test1"
+( node3 3.0
+  ( node1 6.0
+    < sink1 5.0 34.5 64.0 >
+    < sink2 8.0 24.0 30.5 >
+  )
+  ( node2 4.0
+    < sink3 4.0 34.5  7.0 >
+    < sink4 8.0 19.3 13.0 >
+  )
+)
